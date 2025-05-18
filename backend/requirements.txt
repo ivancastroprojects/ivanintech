@@ -29,5 +29,5 @@ google-generativeai # <--- Añadido para Gemini API
 apscheduler>=3.10.0 # Para tareas programadas
 # ... existing code ...
 aiofiles==23.2.1
-watchfiles==0.21.0
+watchfiles==1.0.5
 beautifulsoup4==4.12.3 
